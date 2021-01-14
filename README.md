@@ -8,3 +8,5 @@ The original PSD is included and was provided by [Sergey Melnik](https://www.beh
 
 This project was developed with HTML5, Sass, jQuery, and Hammer.js.
 
+I ue this template to my website. I think it's important say ever where obtain the things, cite the author please.
+
